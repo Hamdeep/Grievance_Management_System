@@ -1,0 +1,16 @@
+pandas
+langchain-groq
+langchain-community
+langchain-ollama
+google-generativeai
+langchain-google-genai
+langchain-community
+langchain-openai
+streamlit
+torch
+torchvision
+torchaudio
+soundfile
+transformers
+phidata
+streamlit-option-menu
