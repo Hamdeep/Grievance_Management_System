@@ -14,3 +14,4 @@ soundfile
 transformers
 phidata
 streamlit-option-menu
+faiss-cpu
